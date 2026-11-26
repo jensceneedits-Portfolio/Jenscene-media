@@ -1,0 +1,29 @@
+BRUGTE FAIL-KLIP (opdateret 20. nov. 2026)
+==========================================
+
+Crash-video 1 "Alt under kontrol" (postet 20/11 kl. 11:30):
+  Dag 1 - Fail hook, Fail 1, 2, 3, 5, 6, 7
+  Fail 10, 11, 12
+  Dag 2 - Fail 13, 14, 15, 16, 17, 18
+  Dag 2 - Fail motorcykel 1, 2, 3, 4
+
+Crash-video 2 "Stadig under kontrol" (godkendt 20/11):
+  Dag 2 - Fail 21 Kæmpe fail (lygtepæl + bus)
+  Dag 2 - Fail 22 (ATV i træet)
+  Dag 2 - Fail 24 kæmpe crash (truck)
+  Fail 26 (lastbil om natten)
+  Fail 27 (orange bil + skilt)
+  Fail 29 (pæl)
+  Fail 30 (to fodgængere + hook "Jeg kører som en drøm")
+  Fail 31 (sheriff-bil rammer pickup)
+  Fail 32 (varevogn rammer bil, bil + fodgænger)
+
+Egne videoer lavet af fail-klip:
+  Fail 21 -> "Kæmpe fail"
+  Kører ind i dyr -> "Kører ind i dyr" (ko)
+  Fail 30 -> "Kører som en drøm"
+
+IKKE BRUGT ENDNU (til crash-video 3):
+  Dag 1 - Fail 9 (må ikke bruges)
+  Fail 25 (for mørkt), Fail 28 (intet tydeligt sammenstød)
+  Dag 3 - Fail 33, 34, 35, 36, 37, 38, 39, 40, 41 (guldjakke = dag 3)
